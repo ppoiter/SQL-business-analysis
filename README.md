@@ -1,2 +1,2 @@
 # SQL-business-analysis
-Using SQL to answer sample business questions
+Using SQL/python to answer sample business questions from a database of music sales. Metrics are communicated via bar graphs, pie charts and some tables.
